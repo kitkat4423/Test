@@ -1,2 +1,2 @@
-const first: string = 'Hello'; // first is declared
+const first: string = 'Hello world!'; // first is declared
 console.log(first); // first variable is printed.ts
