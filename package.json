@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "script_1": "tsc test.ts -t es5"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  }
+}
