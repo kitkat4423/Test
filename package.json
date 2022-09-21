@@ -21,5 +21,19 @@
     "*.ts": [
       "npm run lint"
     ]
-  }
+  },
+  "name": "c",
+  "description": "Some project",
+  "version": "1.0.0",
+  "main": "test.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kitkat4423/Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kitkat4423/Test/issues"
+  },
+  "homepage": "https://github.com/kitkat4423/Test#readme"
 }
